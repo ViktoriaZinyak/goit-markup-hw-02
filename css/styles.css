@@ -23,7 +23,7 @@ body {
   color: var(--text-color);
 }
 
-.link.current {
+.header-link.current {
   color: var(--accent-color);
 }
 
